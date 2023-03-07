@@ -1,0 +1,48 @@
+[33mcommit 9283bdfcabc9cae0ec7418e394eec3d1c9931e74[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 9c6a677 189adcf
+Author: shindou <sh.shindou@gmail.com>
+Date:   Tue Mar 7 07:11:49 2023 -0800
+
+    Cool, all my changes will be now part of the main branch, ready to be deployed!
+
+[33mcommit 9c6a677f7beeeb69d6f5fffcde6963d3d5beb83f[m
+Author: shindou <sh.shindou@gmail.com>
+Date:   Tue Mar 7 07:04:05 2023 -0800
+
+    How to be up to date in git
+
+[33mcommit d75256ceaa5faafe171a261572533434aea1691f[m
+Author: Shindou00 <98887570+Shindou93@users.noreply.github.com>
+Date:   Tue Mar 7 15:58:19 2023 +0100
+
+    Update README.md
+
+[33mcommit 49d54dbb163da6436c56323995108ba622176a00[m
+Author: shindou <sh.shindou@gmail.com>
+Date:   Tue Mar 7 06:53:17 2023 -0800
+
+    Hot fix
+
+[33mcommit 189adcf2de216fc4640b1ca44bec8a3384fb3001[m[33m ([m[1;31morigin/update_script[m[33m, [m[1;32mupdate_script[m[33m)[m
+Author: shindou <sh.shindou@gmail.com>
+Date:   Tue Mar 7 06:43:42 2023 -0800
+
+    My personal work
+
+[33mcommit b256e526adcee97016d6869b42733469859dd9d9[m
+Author: shindou <sh.shindou@gmail.com>
+Date:   Tue Mar 7 06:33:37 2023 -0800
+
+    Starting to code today, so cool
+
+[33mcommit acfe736d4eec68a704653f501fc44a7e5eb2e8e0[m
+Author: shindou <sh.shindou@gmail.com>
+Date:   Tue Mar 7 06:24:02 2023 -0800
+
+    create first directory
+
+[33mcommit 849d37ed6194528850894d58cac751710c6d638c[m
+Author: shindou <sh.shindou@gmail.com>
+Date:   Tue Mar 7 06:14:36 2023 -0800
+
+    My first commit
